@@ -1,0 +1,14 @@
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\bin\Debug\net6.0\Repositry_Pattern.core.deps.json
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\bin\Debug\net6.0\Repositry_Pattern.core.runtimeconfig.json
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\bin\Debug\net6.0\Repositry_Pattern.core.dll
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\bin\Debug\net6.0\Repositry_Pattern.core.pdb
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.csproj.AssemblyReference.cache
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.AssemblyInfoInputs.cache
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.AssemblyInfo.cs
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.csproj.CoreCompileInputs.cache
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.dll
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\refint\Repositry_Pattern.core.dll
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.pdb
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\Repositry_Pattern.core.genruntimeconfig.cache
+C:\Users\FCC\Desktop\API\REPOSITRY Pattren\Repositry_Pattern.core\obj\Debug\net6.0\ref\Repositry_Pattern.core.dll
